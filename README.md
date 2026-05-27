@@ -1,7 +1,7 @@
 # cloudsec-research-writeups
 Publicly available CloudSec research writeups from great researchers on AWS, GCP, Azure, OCI and more.
 
-This repository was inspired by [xdavidhu](https://github.com/xdavidhu/awesome-google-vrp-writeups)’s Google VRP writeups repository. While his repository covers Google VRP writeups in general, this one is focused specifically on cloud-related writeups. Be sure to check out his repository as well.
+This repository was inspired by [xdavidhu](https://github.com/xdavidhu/awesome-google-vrp-writeups)’s Google VRP writeups repository. While his repository covers Google VRP writeups in general, this one is focused specifically on cloud-related writeups on any cloud providers. Be sure to check out his repository as well.
 
 ## Google Cloud
 1. [GatewayToHeaven: Finding a Critical Cross-Tenant Exploit in GCP's Apigee](https://omeramiad.com/posts/gatewaytoheaven-gcp-cross-tenant-vulnerability) (**@omer_asfu**)
