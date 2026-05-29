@@ -42,6 +42,7 @@ This repository was inspired by [xdavidhu](https://github.com/xdavidhu/awesome-g
 36. [SSH key injection in Google Cloud Compute Engine [Google VRP]](https://blog.stazot.com/auth-bypass-in-google-cloud-workstations/) (**Sivanesh Ashok**)
 37. [Client-Side SSRF to Google Cloud Project Takeover [Google VRP]](https://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/) (**Sreeram KL**)
 38. [Few bugs in the google cloud shell](https://obmiblog.blogspot.com/2022/12/gcp-2022-few-bugs-in-google-cloud-shell.html) (**Obmi**)
+39. [ApatchMe - Authenticated Stored XSS Vulnerability in AWS and GCP Apache Airflow Services](https://www.tenable.com/blog/apatchme-authenticated-stored-xss-vulnerability-in-aws-and-gcp-apache-airflow-services) (**@terminatorLM**)
 
 ## AWS
 1. [FlowFixation: AWS Apache Airflow Service Takeover Vulnerability and Why Neglecting Guardrails Puts Major CSPs at Risk](https://www.tenable.com/blog/flowfixation-aws-apache-airflow-service-takeover-vulnerability-and-why-neglecting-guardrails) (**@terminatorLM**)
