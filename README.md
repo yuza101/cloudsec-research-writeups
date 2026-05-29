@@ -37,12 +37,13 @@ This repository was inspired by [xdavidhu](https://github.com/xdavidhu/awesome-g
 31. [Exploring Eclipse IDE Attack Vectors: Unveiling Google Cloud Tools Plugin Vulnerabilities](https://medium.com/@moh.abo.sakr/exploring-eclipse-ide-attack-vectors-unveiling-google-cloud-tools-plugin-vulnerabilities-ff334a56a44c) (**Mo Sakr**)
 32. [Unveiling a Critical Authentication Bypass Vulnerability in Google Cloud API Gateway](https://securingbits.com/bypassing-google-cloud-api-gateway) (**Securing Bits**)
 33. [Identity-Aware Proxy Misconfiguration- Google Cloud Vulnerability](https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed) (**Borna Nematzadeh**)
-34. [XSS using postMessage in Google Cloud Theia notebooks [Google VRP]](https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/) (**Sreeram KL**)
+34. [XSS using postMessage in Google Cloud Theia notebooks [Google VRP]](https://web.archive.org/web/20230115051640/https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/) (**Sreeram KL**)
 35. [Bypassing authorization in Google Cloud Workstations [Google VRP]](https://blog.stazot.com/ssh-key-injection-google-cloud/) (**Sivanesh Ashok**)
 36. [SSH key injection in Google Cloud Compute Engine [Google VRP]](https://blog.stazot.com/auth-bypass-in-google-cloud-workstations/) (**Sivanesh Ashok**)
 37. [Client-Side SSRF to Google Cloud Project Takeover [Google VRP]](https://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/) (**Sreeram KL**)
 38. [Few bugs in the google cloud shell](https://obmiblog.blogspot.com/2022/12/gcp-2022-few-bugs-in-google-cloud-shell.html) (**Obmi**)
 39. [ApatchMe - Authenticated Stored XSS Vulnerability in AWS and GCP Apache Airflow Services](https://www.tenable.com/blog/apatchme-authenticated-stored-xss-vulnerability-in-aws-and-gcp-apache-airflow-services) (**@terminatorLM**)
+40. [Remote Code Execution in Google Cloud Dataflow](https://web.archive.org/web/20221219213741/https://mbrancato.github.io/2021/12/28/rce-dataflow.html) (**Mike Brancato**)
 
 ## AWS
 1. [FlowFixation: AWS Apache Airflow Service Takeover Vulnerability and Why Neglecting Guardrails Puts Major CSPs at Risk](https://www.tenable.com/blog/flowfixation-aws-apache-airflow-service-takeover-vulnerability-and-why-neglecting-guardrails) (**@terminatorLM**)
